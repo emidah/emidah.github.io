@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-08-23 20:45:20 +0300
-categories: jekyll update
+title:  "This is a test!"
+date:   2018-08-23 20:49:00 +0300
+categories: test post please ignore
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
