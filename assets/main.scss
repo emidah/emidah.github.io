@@ -5,10 +5,22 @@
 @import "minima";
 
 body {
-  background-color: #111111;
+  background-color: #202020;
   color: silver;
 }
 
 .post-link {
   color: white;
+}
+
+.site-title:link {
+  color: silver;
+}
+
+.site-title:visited {
+  color: silver;
+}
+
+code {
+  color: black;
 }
