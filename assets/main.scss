@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+  background-color: #202020;
+  color: silver;
+}
+
+.post-link {
+  color: white;
+}
+
+.site-title:link {
+  color: silver;
+}
+
+.site-title:visited {
+  color: silver;
+}
+
+code {
+  color: black;
+}
